@@ -1,12 +1,13 @@
 import React, { Component } from "react";
+import "../../styles/clasesvista.css"
 
 export const Clases = () => (
     <>
     <div class="d-flex justify-content-center">
-<div class="card mb-3">
+<div class="card mb-3" id="personajes">
   <div class="row g-0">
     <div class="col-md-2">
-      <img src="http://d20pfsrd.opengamingnetwork.com/wp-content/uploads/sites/12/2017/01/barbarian_comm_by_yamao-d5ooj60-2.jpg" class="img-fluid rounded-start" alt="..." width="200"
+      <img src="http://d20pfsrd.opengamingnetwork.com/wp-content/uploads/sites/12/2017/01/barbarian_comm_by_yamao-d5ooj60-2.jpg" class="img-fluid rounded-start border border-dark" alt="..." width="200"
             height="500"/>
     </div>
     <div class="col-md-1 d-flex justify-content-center align-items-center">

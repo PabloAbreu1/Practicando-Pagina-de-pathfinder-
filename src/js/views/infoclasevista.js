@@ -4,7 +4,7 @@ import "../../styles/home.css";
 import { InfoClase } from "../component/infoclase";
 
 export const InfoClasesVista = () => (
-	<div className="text-center mt-5">
+	<div className="text-center mt-5" id="infoclasevista">
         <InfoClase/>
 	</div>
 );

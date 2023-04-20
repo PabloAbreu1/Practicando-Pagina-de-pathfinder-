@@ -7,7 +7,7 @@ import { Cards } from "../component/cards";
 import { ArchivosPDF } from "../component/archivospdf";
 
 export const Home = () => (
-	<div className="text-center mt-5">
+	<div className="text-center mt-5" id="home">
 		<Carrusel/>
 		<br/>
 		<Cards/>
