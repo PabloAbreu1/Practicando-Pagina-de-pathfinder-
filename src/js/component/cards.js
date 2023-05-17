@@ -14,7 +14,7 @@ export const Cards = () => (
             height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Clases</h5>
-                <a type="button" class="btn btn-outline-dark" href="/Clases">Dark</a>
+                <a type="button" class="btn btn-outline-dark" href="/Clases">Entrar</a>
             </div>
         </div>
         </div>
@@ -24,7 +24,7 @@ export const Cards = () => (
             height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Bestiario</h5>
-                <a type="button" class="btn btn-outline-dark" href="/infoclases">Dark</a>
+                <a type="button" class="btn btn-outline-dark" href="/infoclases">Entrar</a>
             </div>
         </div>
         </div>
@@ -34,7 +34,7 @@ export const Cards = () => (
             height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Razas</h5>
-                <p class="card-text"><button type="button" class="btn btn-outline-dark">Dark</button></p>
+                <p class="card-text"><button type="button" class="btn btn-outline-dark">Entrar</button></p>
             </div>
         </div>
         </div>
@@ -55,7 +55,7 @@ export const Cards = () => (
             height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Dotes</h5>
-                <p class="card-text"><button type="button" class="btn btn-outline-dark">Dark</button></p>
+                <p class="card-text"><button type="button" class="btn btn-outline-dark">Entrar</button></p>
             </div>
         </div>
         </div>
@@ -65,7 +65,7 @@ export const Cards = () => (
             height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Conjuros</h5>
-                <p class="card-text"><button type="button" class="btn btn-outline-dark">Dark</button></p>
+                <p class="card-text"><button type="button" class="btn btn-outline-dark">Entrar</button></p>
             </div>
         </div>
         </div>
@@ -75,7 +75,7 @@ export const Cards = () => (
             height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Clases de prestigio</h5>
-                <p class="card-text"><button type="button" class="btn btn-outline-dark">Dark</button></p>
+                <p class="card-text"><button type="button" class="btn btn-outline-dark">Entrar</button></p>
             </div>
         </div>
         </div>
@@ -95,7 +95,7 @@ export const Cards = () => (
             height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Arquetipos</h5>
-                <p class="card-text"><button type="button" class="btn btn-outline-dark">Dark</button></p>
+                <p class="card-text"><button type="button" class="btn btn-outline-dark">Entrar</button></p>
             </div>
         </div>
         </div>
@@ -105,7 +105,7 @@ export const Cards = () => (
             height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Habilidades</h5>
-                <p class="card-text"><button type="button" class="btn btn-outline-dark">Dark</button></p>
+                <p class="card-text"><button type="button" class="btn btn-outline-dark">Entrar</button></p>
             </div>
         </div>
         </div>
@@ -115,7 +115,7 @@ export const Cards = () => (
             height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Combate</h5>
-                <p class="card-text"><button type="button" class="btn btn-outline-dark">Dark</button></p>
+                <p class="card-text"><button type="button" class="btn btn-outline-dark">Entrar</button></p>
             </div>
         </div>
         </div>
@@ -135,7 +135,7 @@ export const Cards = () => (
             height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Dotes</h5>
-                <p class="card-text"><button type="button" class="btn btn-outline-dark">Dark</button></p>
+                <p class="card-text"><button type="button" class="btn btn-outline-dark">Entrar</button></p>
             </div>
         </div>
         </div>
@@ -145,7 +145,7 @@ export const Cards = () => (
             height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Conjuros</h5>
-                <p class="card-text"><button type="button" class="btn btn-outline-dark">Dark</button></p>
+                <p class="card-text"><button type="button" class="btn btn-outline-dark">Entrar</button></p>
             </div>
         </div>
         </div>
@@ -155,7 +155,7 @@ export const Cards = () => (
             height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Clases de prestigio</h5>
-                <p class="card-text"><button type="button" class="btn btn-outline-dark">Dark</button></p>
+                <p class="card-text"><button type="button" class="btn btn-outline-dark">Entrar</button></p>
             </div>
         </div>
         </div>
